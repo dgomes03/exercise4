@@ -33,4 +33,4 @@ def printMyName(name):
 |1 | item 1  | item 2  | item 3  |
 |2 | item 4  | item 5  | item 6  |
 
-![Logo da ULisboa](/Users/diogogomes/Pictures/logoUlisboa.png)
+![Logo da ULisboa](./image/logoUlisboa.png)
